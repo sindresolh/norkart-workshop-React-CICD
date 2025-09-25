@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/norkart-workshop-React-CICD/static/css/main.ebb9bff9.css",
-    "main.js": "/norkart-workshop-React-CICD/static/js/main.7587f940.js",
+    "main.js": "/norkart-workshop-React-CICD/static/js/main.c073247c.js",
     "index.html": "/norkart-workshop-React-CICD/index.html",
     "main.ebb9bff9.css.map": "/norkart-workshop-React-CICD/static/css/main.ebb9bff9.css.map",
-    "main.7587f940.js.map": "/norkart-workshop-React-CICD/static/js/main.7587f940.js.map"
+    "main.c073247c.js.map": "/norkart-workshop-React-CICD/static/js/main.c073247c.js.map"
   },
   "entrypoints": [
     "static/css/main.ebb9bff9.css",
-    "static/js/main.7587f940.js"
+    "static/js/main.c073247c.js"
   ]
 }
